@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Nithyasree!
 
-<!--
-**nithyasree2030135/nithyasree2030135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring data analyst eager to apply analytical and visualization skills to extract meaningful insights from data. Proficient in Python (including libraries like Pandas and Matplotlib,seaborn), SQL, and tools such as Power BI. Explore my projects below showcasing my learning journey and abilities in data analysis.
 
-Here are some ideas to get you started:
+**Skills:**
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL
+- Data Visualization (Power BI, Tableau)
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **My Projects:**
+
+- [Power BI Sales Dashboard](https://github.com/nithyasree2030135/power-bi-sales-dashboard) - A dashboard visualizing sales performance.
+- [Spotify Analysis](https://github.com/nithyasree2030135/power-bi-spotify-Analysis) - Analysis of Spotify listening data.
+- [Pizza Sales Visualization (Python)](https://github.com/nithyasree2030135/python-pizza-sales-visualization) - Visualizing pizza sales trends using Python.
+
+**Connect with me:**
+
+www.linkedin.com/in/nithyasree-v2004
